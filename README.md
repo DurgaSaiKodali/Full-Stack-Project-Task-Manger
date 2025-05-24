@@ -5,6 +5,18 @@ A full-stack task manager application with:
 - **Frontend**: React.js – built using VS Code
 
 ## 📁 Folder Structure
+Project-Task-Manager/
+├── .gitignore
+├── README.md
+├── pom.xml
+├── mvnw*
+├── .mvn/
+├── src/
+├── project-task-manager-ui/   ← React frontend here
+│   ├── public/
+│   ├── src/
+│   ├── package.json
+│   ├── .gitignore
 
 
 ## 🚀 How to Run the App
